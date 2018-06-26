@@ -1,4 +1,4 @@
-import _ from "lodash";
+const _ = require("lodash");
 
 function setPropToTimeline(timeline, obj, prop, fps, assignToObj) {
   if (prop.a === 0) {

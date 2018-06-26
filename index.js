@@ -1,3 +1,3 @@
 module.exports = {
-  createBodymovinContainer: require("./createBodymovinContainer.js"),
+  create: require("./createBodymovinContainer.js"),
 };
