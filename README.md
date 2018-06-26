@@ -8,7 +8,7 @@
 # Usage
 
 ```js
-const PixiBodymovinContainer = require("./PixiBodymovinContainer.js");
+const PixiBodymovinContainer = require("pixibodymovincontainer");
 const { container, timeline } = PixiBodymovinContainer.create(json);
 
 somePixiContainer.addChild(container);
