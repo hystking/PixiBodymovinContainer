@@ -1,11 +1,11 @@
 # PixiBodymovinContainer
 
-# Dependencies
+## Dependencies
 
 * PIXI.js v4
 * TweenMax v1
 
-# Usage
+## Usage
 
 ```js
 const PixiBodymovinContainer = require("pixibodymovincontainer");
